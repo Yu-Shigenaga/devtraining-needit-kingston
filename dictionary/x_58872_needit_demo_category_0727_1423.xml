@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="demo_category_0727_1423" max_length="40" name="x_58872_needit_demo_category_0727_1423" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="(変更しないでください) カテゴリ ID" max_length="40" name="u__変更しないでください__カテゴリ_id" type="string"/>
+        <element label="(変更しないでください) 修正日" max_length="40" name="u__変更しないでください__修正日" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="(変更しないでください) 行チェックサム" max_length="188" name="u__変更しないでください__行チェックサム" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="カテゴリ番号" max_length="40" name="u_カテゴリ番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="タイトル" max_length="40" name="u_タイトル" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="親カテゴリ" max_length="40" name="u_親カテゴリ" type="string"/>
+    </element>
+</database>

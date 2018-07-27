@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u__変更しないでください__修正日" label="(変更しないでください) 修正日" language="en" table="x_58872_needit_demo_category_0727_1423">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u__変更しないでください__修正日</element>
+            <help/>
+            <hint/>
+            <label>(変更しないでください) 修正日</label>
+            <language>en</language>
+            <name>x_58872_needit_demo_category_0727_1423</name>
+            <plural>(変更しないでください) 修正日s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-27 05:23:59</sys_created_on>
+            <sys_id>3274d3a1dba313005b2eaab35b9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>(変更しないでください) 修正日</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_demo_category_0727_1423_u__変更しないでください__修正日_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-27 05:23:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
